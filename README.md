@@ -70,4 +70,4 @@ src
 
 # screenshot
 
-![alt DebitCard](./card-app/screen_shot/1.png)
+![DebitCard](https://github.com/brianha289/card-app/blob/main/screen_shot/1.png)
