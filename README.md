@@ -1,4 +1,4 @@
-# farm-go-app
+# helo-aspire
 
 - Structure app is based on TypeScript, RxJS, Redux, Epic like below.
 - App can be supported by multiple languages
