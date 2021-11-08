@@ -1,3 +1,6 @@
+# Note
+- App is built with Expo. If you want just only use for react-native please run `expo eject`
+
 # helo-aspire
 
 - Structure app is based on TypeScript, RxJS, Redux, Epic like below.
@@ -64,3 +67,6 @@ src
     └── fmtNumber.ts
 
 ```
+
+# screenshot
+
