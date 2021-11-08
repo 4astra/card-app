@@ -1,0 +1,14 @@
+{
+    "welcome": "Hello",
+    "card": "Debit Card",
+    "available_balance": "Available balance",
+    "debit_card": "Debit Card",
+    "show_card_number": "Show card number",
+    "hide_card_number": "Hide card number",
+    "setting": "Setting",
+    "scan": "Scan QR",
+    "spending_limit": "Spending limit",
+    "set_weekly_debbit": "Set a weekly debit card spending limit",
+    "set_weekly_desc": "Here weekly means the last 7 days - not the calendar week",
+    "debit_desc": "Debit card spending limit"
+}
