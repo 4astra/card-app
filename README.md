@@ -71,8 +71,6 @@ src
 # screenshot
 
 <img src="https://github.com/brianha289/card-app/blob/main/screen_shot/1.png" width="480" height="1120">
-
-![DebitCard](https://github.com/brianha289/card-app/blob/main/screen_shot/1.png)
-![DebitCard](https://github.com/brianha289/card-app/blob/main/screen_shot/2.png)
-![DebitCard](https://github.com/brianha289/card-app/blob/main/screen_shot/2.png)
-![DebitCard](https://github.com/brianha289/card-app/blob/main/screen_shot/2.png)
+<img src="https://github.com/brianha289/card-app/blob/main/screen_shot/2.png" width="480" height="1120">
+<img src="https://github.com/brianha289/card-app/blob/main/screen_shot/3.png" width="480" height="1120">
+<img src="https://github.com/brianha289/card-app/blob/main/screen_shot/4.png" width="480" height="1120">
