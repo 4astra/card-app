@@ -70,4 +70,9 @@ src
 
 # screenshot
 
+<img src="https://github.com/brianha289/card-app/blob/main/screen_shot/1.png" width="480" height="1120">
+
 ![DebitCard](https://github.com/brianha289/card-app/blob/main/screen_shot/1.png)
+![DebitCard](https://github.com/brianha289/card-app/blob/main/screen_shot/2.png)
+![DebitCard](https://github.com/brianha289/card-app/blob/main/screen_shot/2.png)
+![DebitCard](https://github.com/brianha289/card-app/blob/main/screen_shot/2.png)
